@@ -1,0 +1,34 @@
+
+
+#subscribe{
+    
+    text-decoration: none;
+    color: white;
+
+}
+
+#seyar{
+   
+    background: url("../img/seyar.png");
+   
+}
+
+.youtubevideos hr{
+    width: 95vw;
+    height: 5px;
+    background-color: #ddd;
+    margin: auto;
+}
+
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
