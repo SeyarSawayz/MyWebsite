@@ -1,2 +1,2 @@
 # MyWebsite
-https://seyarsawayz.netlify.app/
+https://kayhantech.netlify.app/
